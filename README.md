@@ -5,7 +5,7 @@ This profile is in some kind of maintenance mode, so until it's finished, you wi
 
 I love coding in various scripting/programming languages. At this moment I'm providing support on VPS powered by CentOS (game servers hosting).
 
-Roadmap:
+🛣️Roadmap:
 - [x] Create this readme file.
 - [ ] Update GH profile and current projects.
 - [ ] Get more familiar with Git.
