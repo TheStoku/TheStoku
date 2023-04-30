@@ -7,10 +7,10 @@ I love coding in various scripting/programming languages. At this moment I'm pro
 
 🛣️Roadmap:
 - [x] Create this readme file.
+- [x] Push most recent changes to the current projects.
+- [x] Start a new project (.NET, Java or other).
 - [ ] Update GH profile and current projects.
 - [ ] Get more familiar with Git.
-- [ ] Push most recent changes to the current projects.
-- [ ] Start a new project (.NET, Java or other).
 
 🌐 [GTA3.pl](https://gta3.pl) 🧬 [\[LCK\] LU servers are powered by AdminPanel](https://github.com/TheStoku/AdminPanel)
 
