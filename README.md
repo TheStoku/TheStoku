@@ -11,6 +11,7 @@ I love coding in various scripting/programming languages. At this moment I'm pro
 - [x] Start a new project (.NET, Java or other).
 - [x] Update GH profile and current projects.
 - [x] Get more familiar with Git.
+- [ ] Create Next.js+React+Material UI project - on my way!
 
 🌐 [GTA3.pl](https://gta3.pl) 🧬 [\[LCK\] LU servers are powered by AdminPanel](https://github.com/TheStoku/AdminPanel)
 
