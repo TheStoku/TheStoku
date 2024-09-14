@@ -13,7 +13,7 @@ I love coding in various scripting/programming languages. At this moment I'm pro
 - [x] Get more familiar with Git.
 - [ ] Create Next.js+React+Material UI project - on my way!
 
-🌐 [GTA3.pl](https://gta3.pl) 🧬 [\[LCK\] LU servers are powered by AdminPanel](https://github.com/TheStoku/AdminPanel)
+🌐 [GTA3.pl](https://gta.lck.ovh) 🧬 [\[LCK\] LU servers are powered by AdminPanel](https://github.com/TheStoku/AdminPanel)
 
 <!---
 TheStoku/TheStoku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
