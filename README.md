@@ -5,14 +5,6 @@ This profile is in some kind of maintenance mode, so until it's finished, you wi
 
 I love coding in various scripting/programming languages. At this moment I'm providing support on VPS powered by CentOS (game servers hosting).
 
-🛣️Roadmap:
-- [x] Create this readme file.
-- [x] Push most recent changes to the current projects.
-- [x] Start a new project (.NET, Java or other).
-- [x] Update GH profile and current projects.
-- [x] Get more familiar with Git.
-- [ ] Create Next.js+React+Material UI project - on my way!
-
 🌐 [GTA3.pl](https://gta.lck.ovh) 🧬 [\[LCK\] LU servers are powered by AdminPanel](https://github.com/TheStoku/AdminPanel)
 
 <!---
